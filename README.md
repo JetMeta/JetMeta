@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![https://github.com/JetMeta/JetMeta](https://github-readme-stats.vercel.app/api?username=JetMeta)]()
+<!-- [![https://github.com/JetMeta/JetMeta](https://github-readme-stats.vercel.app/api?username=JetMeta)]() -->
